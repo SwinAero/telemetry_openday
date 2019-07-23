@@ -3,7 +3,7 @@
 This sketch dumps information from the 6-axis gyroscope onto a MicroSD card at approximately 90 data points per second.
 
 ## Libraries Used
-- [mpu6050_tockn](https://github.com/Tockn/MPU6050_tockn)
+- Our fork of [mpu6050_tockn](https://github.com/SwinAero/MPU6050_tockn)
 - Standard Arduino SD library
 
 ## Components this is implemented against
