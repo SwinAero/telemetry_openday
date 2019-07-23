@@ -30,4 +30,4 @@ D4 | SS (MicroSD adapter)
 D11 | MOSI
 D12 | MISO
 D13 | SCK
-*D10 | SS (Ethernet)*
+*D10* | *SS (Ethernet)*
